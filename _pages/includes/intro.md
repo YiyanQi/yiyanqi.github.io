@@ -1,4 +1,4 @@
-# :octocat: About Me
+# 📎 About me
 
 I work at International Digital Economy Academy <img src='./images/IDEA.png' style='width: 5em;'> as a research scientist now in Shenzhen, China. 
 Prior to joining IDEA, I worked at Tencent as a Senior Researcher.
