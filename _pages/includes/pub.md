@@ -23,7 +23,7 @@ Yuxing Tian\*, **Yiyan Qi\*\#**, Fan Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ChartBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/chartbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ChartBench: A Benchmark for Complex Visual Reasoning in Charts](https://arxiv.org/pdf/2312.15915) \\
