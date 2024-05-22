@@ -33,3 +33,12 @@ Zhengzhuo Xu, Sinan Du, **Yiyan Qi**, Chengjin Xu, Chun Yuan, Jian Guo
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/nl2sql.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey](https://arxiv.org/abs/2310.17894) \\
+Weixu Zhang, Yifei Wang, Yuanfeng Song, Victor Junqiu Wei, Yuxing Tian, **Yiyan Qi**, Jonathan H. Chan, Raymond Chi-Wing Wong, Haiqin Yang
+
+</div>
+</div>
+
