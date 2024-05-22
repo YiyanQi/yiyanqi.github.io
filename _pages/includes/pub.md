@@ -10,7 +10,7 @@ Yuxing Tian\*, **Yiyan Qi\***, Aiwen Jiang, Qi Huang, Jian Guo
 </div>
 </div>
 
-
+- ``KDD 2024`` [QSketch: An Efficient Sketch for Weighted Cardinality Estimation in Streams](https://arxiv.org/abs/2004.10454), **Yiyan Qi**, Rundong Li, Pinghui Wang, Yufang Sun, Rui Xing
 
 
 
