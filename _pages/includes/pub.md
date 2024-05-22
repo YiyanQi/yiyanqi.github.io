@@ -19,7 +19,7 @@ Yuxing Tian\*, **Yiyan Qi\***, Aiwen Jiang, Qi Huang, Jian Guo
 [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/pdf?id=82Mc5ilInM) \\
 Yuxing Tian\*, **Yiyan Qi\*\#**, Fan Guo
 
-[**Project**](https://github.com/Tianxzzz/FreeDyG](https://github.com/Tianxzzz/FreeDyG) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://github.com/Tianxzzz/FreeDyG) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
 </div>
 
@@ -29,7 +29,7 @@ Yuxing Tian\*, **Yiyan Qi\*\#**, Fan Guo
 [ChartBench: A Benchmark for Complex Visual Reasoning in Charts](https://arxiv.org/pdf/2312.15915) \\
 Zhengzhuo Xu, Sinan Du, **Yiyan Qi**, Chengjin Xu, Chun Yuan, Jian Guo
 
-[**Project**](https://chartbench.github.io/](https://chartbench.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://chartbench.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
 </div>
 
