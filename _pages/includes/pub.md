@@ -12,5 +12,12 @@ Yuxing Tian\*, **Yiyan Qi\***, Aiwen Jiang, Qi Huang, Jian Guo
 
 - ``KDD 2024`` [QSketch: An Efficient Sketch for Weighted Cardinality Estimation in Streams](https://arxiv.org/abs/2004.10454), **Yiyan Qi**, Rundong Li, Pinghui Wang, Yufang Sun, Rui Xing
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/Conda.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/pdf?id=82Mc5ilInM) \\
+Yuxing Tian\*, **Yiyan Qi\*\#**, Fan Guo
+
+</div>
+</div>
 
