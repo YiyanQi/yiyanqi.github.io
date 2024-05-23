@@ -33,7 +33,7 @@ Zhengzhuo Xu, Sinan Du, **Yiyan Qi**, Chengjin Xu, Chun Yuan, Jian Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/nl2sql.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/nl2sql.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey](https://arxiv.org/abs/2310.17894) \\
@@ -42,3 +42,12 @@ Weixu Zhang, Yifei Wang, Yuanfeng Song, Victor Junqiu Wei, Yuxing Tian, **Yiyan 
 </div>
 </div>
 
+- ``KBS 2020`` [Discriminative streaming network embedding](https://www.sciencedirect.com/science/article/abs/pii/S0950705119304964), **Yiyan Qi**, Jiefeng Cheng, Xiaojun Chen, Reynold Cheng, Albert Bifet, Pinghui Wang
+
+- ``TKDE 2020`` [Streaming algorithms for estimating high set similarities in loglog space](http://www.cs.cuhk.hk/~cslui/PUBLICATION/TKDE-streaming-2021.pdf), **Yiyan Qi**, Pinghui Wang, Yuanming Zhang, Qiaozhu Zhai, Chenxu Wang, Guangjian Tian, John CS Lui, Xiaohong Guan
+
+- ``WWW 2020`` [Fast generating a large number of gumbel-max variables](https://arxiv.org/pdf/2002.00413), **Yiyan Qi**, Pinghui Wang, Yuanming Zhang, Junzhou Zhao, Guangjian Tian, Xiaohong Guan
+
+- ``KDD 2019`` [A memory-efficient sketch method for estimating high similarities in streaming sets](https://arxiv.org/pdf/2002.00413), Pinghui Wang, **Yiyan Qi\*\#**, Yuanming Zhang, Qiaozhu Zhai, Chenxu Wang, John CS Lui, Xiaohong Guan
+
+- ``VLDB 2018`` [Approximately counting triangles in large graph streams including edge duplicates with a fixed memory usage](https://www.vldb.org/pvldb/vol11/p162-wang.pdf), Pinghui Wang, **Yiyan Qi\*\#**, Yu Sun, Xiangliang Zhang, Jing Tao, Xiaohong Guan
