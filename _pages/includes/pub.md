@@ -42,6 +42,8 @@ Weixu Zhang, Yifei Wang, Yuanfeng Song, Victor Junqiu Wei, Yuxing Tian, **Yiyan 
 </div>
 </div>
 
+- ``KDD 2022`` [Multi-task fusion via reinforcement learning for long-term user satisfaction in recommender systems](https://arxiv.org/pdf/2208.04560), Qihua Zhang, Junning Liu, Yuzhuo Dai, **Yiyan Qi**, Yifan Yuan, Kunlun Zheng, Fan Huang, Xianfeng Tan
+
 - ``KBS 2020`` [Discriminative streaming network embedding](https://www.sciencedirect.com/science/article/abs/pii/S0950705119304964), **Yiyan Qi**, Jiefeng Cheng, Xiaojun Chen, Reynold Cheng, Albert Bifet, Pinghui Wang
 
 - ``TKDE 2020`` [Streaming algorithms for estimating high set similarities in loglog space](http://www.cs.cuhk.hk/~cslui/PUBLICATION/TKDE-streaming-2021.pdf), **Yiyan Qi**, Pinghui Wang, Yuanming Zhang, Qiaozhu Zhai, Chenxu Wang, Guangjian Tian, John CS Lui, Xiaohong Guan
