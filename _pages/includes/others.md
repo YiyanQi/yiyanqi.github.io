@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2014.09 - 2021.06*, Ph.D, Chu Kochen Honors College, Xi'an Jiaotong Univeristy, Xi'an.
+- *2014.09 - 2021.06*, Ph.D, The School of Automation Science and Engineering, Xi'an Jiaotong Univeristy, Xi'an.
 - *2019.10 - 2020.10*, Visiting student, NUS, Singapore.
 - *2010.09 - 2014.06*, Undergraduate, Xi'an Jiaotong Univeristy, Xi'an.
 
