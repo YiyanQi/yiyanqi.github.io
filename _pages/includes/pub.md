@@ -1,6 +1,26 @@
 
 # 📝 Selected Publications (*equal contribution, #corresponding author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ChartMoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding](https://openreview.net/forum?id=o5TsWTUSeF) \\
+Zhengzhuo Xu\*, Bowen Qu\*, **Yiyan Qi\***, SiNan Du, Chengjin Xu, Chun Yuan, Jian Guo
+
+[**Project**](https://chartmoe.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/DyAug.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rationalizing and Augmenting Dynamic Graph Neural Networks](https://openreview.net/forum?id=thV5KRQFgQ) \\
+Guibin Zhang\*, **Yiyan Qi\***, Ziyang Cheng, Yanwei Yue, Dawei Cheng, Jian Guo
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/Conda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
