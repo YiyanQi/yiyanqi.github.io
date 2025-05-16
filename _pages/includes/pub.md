@@ -1,6 +1,15 @@
 
 # 📝 Selected Publications (*equal contribution, #corresponding author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/MasRouter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MasRouter: Learning to Route LLMs for Multi-Agent Systems](https://arxiv.org/abs/2502.11133) \\
+Yanwei Yue, Guibin Zhang, Boyang Liu, Guancheng Wan, Kun Wang, Dawei Cheng, **Yiyan Qi\#**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Oral</div><img src='images/ChartMoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
