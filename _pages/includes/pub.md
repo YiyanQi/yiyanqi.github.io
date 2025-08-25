@@ -1,6 +1,16 @@
 
 # 📝 Selected Publications (*equal contribution, #corresponding author)
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/CodeRetrieval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Function-Level Search: Repository-Aware Dual-Encoder Code Retrieval with Adversarial Verification](https://openreview.net/forum?id=ONV3xDY06X) \\
+Aofan Liu, Shiyuan SONG, haoxuan li, Cehao Yang, **Yiyan Qi\#**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/MasRouter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
